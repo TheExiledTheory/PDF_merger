@@ -38,7 +38,7 @@ node PDF_MERGER.js
 ![Image2](https://github.com/TheExiledTheory/PDF_merger/blob/main/Images/Screenshot%20at%202022-04-28%2017-48-26.png)
 
 
-![Image3](https://github.com/TheExiledTheory/PDF_merger/blob/main/Images/Screenshot%20at%202022-04-28%2017-47-59.pngg)
+![Image3](https://github.com/TheExiledTheory/PDF_merger/blob/main/Images/Screenshot%20at%202022-04-28%2017-47-59.png)
 
 
 ![Image4](https://github.com/TheExiledTheory/PDF_merger/blob/main/Images/Screenshot%20at%202022-04-28%2017-50-12.png)
