@@ -19,7 +19,7 @@ I only allow for a maximum of 100 files to help ensure that the program does not
 * pdf-merger-js 3.4.0
 
 ### Installing
-* Open either terminal or node shell and run 
+* Run using node/terminal inside target folder
 ```
 npm install fs path pdf-merger-js
 ```
