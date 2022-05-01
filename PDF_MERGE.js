@@ -56,9 +56,9 @@ function readAppend(file, appendFile) {
             console.log("[Notification] The limit is 100 files. You can change this in the source code.");
             return;
         // Make sure the directory has at least 2 files 
-        } else if (size <= 3) {
-            console.log("[Error] Not enough files in the directory! ", size - 1); 
-            console.log("[Notification] You need at least 2 files present.");
+        } else if (size < 3) {
+            console.log("[Error] Not enough PDF's files in the directory! ", size - 1); 
+            console.log("[Notification] You need at least 2 PDF files present.");
             return;
         }
 
@@ -82,8 +82,7 @@ function readAppend(file, appendFile) {
 
                 console.log(`[Notification] Found a valid PDF file: ${files[file]}`);
                 
-                // Add the PDF buffer to array 
-                //pdfs.push(fs.readFileSync(files[file]));
+                // Add the PDF files to array without reading 
                 pdfs.push(files[file]);
             }
 
