@@ -27,7 +27,7 @@ npm install fs path pdf-merger-js
 
 * Simply place the source file into a folder with PDF's 
 ```
-node PDF_MERGER.js
+node PDF_MERGE.js
 ```
 
 ## Screenshots 
