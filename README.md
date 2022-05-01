@@ -1,6 +1,5 @@
 # PDF Merger
 
-This program was written to simply challenge myself and practice my javascript skills. I wrote it to concatenate PDF's together when studying for finals. 
 
 ## Description
 
@@ -9,7 +8,8 @@ For this program to work, you will need at least 2 PDF's and no more than 100 to
 I only allow for a maximum of 100 files to help ensure that the program does not hang searching through a large library. If needed, you can simply change that in the source. 
 
 
-## Getting Started
+## Setup
+
 
 ### Dependencies
 * npm 8.3.0
