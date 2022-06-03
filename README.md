@@ -19,6 +19,7 @@ I only allow for a maximum of 100 files to help ensure that the program does not
 * fs 0.0.1 
 * path 0.12.7
 * pdf-merger-js 3.4.0
+* awesome-unoconv 1.0.1
 
 ### Installing
 * Run using node/terminal inside target folder
@@ -27,7 +28,7 @@ npm install fs path pdf-merger-js awesome-unoconv
 ```
 ### Executing 
 
-* Simply place the source file into a folder with PDF's 
+* Simply place the source file into a folder with PDF's after installing dependencies 
 ```
 node PDF_MERGE.js
 ```
