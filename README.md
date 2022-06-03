@@ -7,6 +7,8 @@ For this program to work, you will need at least 2 PDF's and no more than 100 to
 
 I only allow for a maximum of 100 files to help ensure that the program does not hang searching through a large library. If needed, you can simply change that in the source. 
 
+[Update] Since writing initially, I added the ability for it to convert powerpoint files to pdfs using a npm library called awesome-unoconv. By default, it will automatically remove all files used in merging. 
+
 
 ## Setup
 
@@ -21,7 +23,7 @@ I only allow for a maximum of 100 files to help ensure that the program does not
 ### Installing
 * Run using node/terminal inside target folder
 ```
-npm install fs path pdf-merger-js
+npm install fs path pdf-merger-js awesome-unoconv
 ```
 ### Executing 
 
